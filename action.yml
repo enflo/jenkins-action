@@ -6,7 +6,7 @@ inputs:
   url:
     description: 'Jenkins URL'
     required: true
-    default: 'toniflorithomar.cat'
+    default: '0.0.0.0:8080'
   user:
     description: 'Jenkins USER'
     required: true
